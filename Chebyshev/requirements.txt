@@ -1,0 +1,4 @@
+numpy==2.2.5
+otter-grader
+matplotlib
+pandas==2.3.2
