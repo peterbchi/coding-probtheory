@@ -1,4 +1,5 @@
-numpy==2.2.5
-otter-grader
+numpy
+pandas
 matplotlib
-pandas==2.3.2
+seaborn
+otter-grader
